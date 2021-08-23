@@ -4,6 +4,8 @@
 
 using namespace std;
 
+
+
 class Estudiante
 {
 public:
@@ -24,17 +26,18 @@ public:
 
 Estudiante::Estudiante()
 {
+    
 }
-Estudiante::Estudiante(string _No_Carnet, string _Dpi, string _nombre, string _carrera, string _Correo, string _Password, string _Creditos, string _Edad)
+Estudiante::Estudiante(string _No_Carnet, string _Dpi, string _nombre, string _carrera, string _Password, string _Creditos, string _Edad, string _Correo)
 {
     this->No_Carnet = _No_Carnet;
     this->Dpi = _Dpi;
     this->nombre = _nombre;
     this->carrera = _carrera;
-    this->Correo = _Correo;
     this->Password = _Password;
     this->Creditos = _Creditos;
     this->Edad = _Edad;
+    this->Correo = _Correo;
     
 };
 
@@ -116,7 +119,7 @@ bool ListaCircularDoble::busquedaCarnet(string carnet){
         cout << aux->estudiante.No_Carnet << " fue encontrado exitosamente" << endl;
         return true;
     }else{
-        cout << "No se encontro el estudiante ";
+        cout << "No se encontro el estudiante "<<endl;
         return false;
     };
 
@@ -223,6 +226,7 @@ Estudiante ListaCircularDoble::Buscar(string DPI){
         cout << "No se encontro el estudiante ";
     };
 
+    return Estudiante();
 
 };
 

@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "cerrno": "cpp",
+        "regex": "cpp",
+        "tuple": "cpp",
+        "*.tcc": "cpp",
+        "system_error": "cpp",
+        "random": "cpp",
+        "fstream": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "functional": "cpp",
+        "string_view": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp"
+    }
+}

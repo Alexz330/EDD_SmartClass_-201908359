@@ -1,5 +1,7 @@
+
 #include <iostream>
 #include <string>
+#include <regex>
 
 
 using namespace std;
@@ -7,8 +9,8 @@ using namespace std;
 class Tareas {
     public:
         Tareas();
-        Tareas(string,string,string,string,string,string,string);
-        int id = 0;
+        Tareas(int, string,string,string,string,string,string,string);
+        int id;
         string carnet;
         string nombreTarea;
         string descripcion;
@@ -16,8 +18,8 @@ class Tareas {
         string fecha;
         string hora;
         string estado;
-
-        
+        bool validarHora();
+     
 
 
 };
@@ -25,7 +27,8 @@ Tareas::Tareas(){
 
 };
 
-Tareas::Tareas(string _carnet,string _nombreTarea,string _descripcion, string _materia, string _fecha,string _hora,string _estado){
+Tareas::Tareas(int _id,string _carnet,string _nombreTarea,string _descripcion, string _materia, string _fecha,string _hora,string _estado){
+    this->id = _id;
     this->carnet = _carnet;
     this->nombreTarea =_nombreTarea;
     this->descripcion = _descripcion;
@@ -34,9 +37,15 @@ Tareas::Tareas(string _carnet,string _nombreTarea,string _descripcion, string _m
     this->hora = _hora;
     this->estado = _estado;
     
-    id++;
+    
 }
 
+
+bool Tareas::validarHora(){
+    string hora  = this->hora;
+    const regex  expresionCorreo("(\\w+)(\\.|_)?(\\w*)@(\\w+)(\\.(\\w+))+");
+    return regex_match(hora, expresionCorreo);
+}
 
 
 class NodoDoble
@@ -103,7 +112,7 @@ void LIstaDobleEnlazada::agregarFinal(Tareas tarea){
         }
 
         temporal->Siguiente = nodito;
-        nodito->Siguiente = temporal;
+        nodito->Anterior = temporal;
 
     }
 }
@@ -111,26 +120,26 @@ void LIstaDobleEnlazada::agregarFinal(Tareas tarea){
 
 void LIstaDobleEnlazada::eliminar(int id){
 
-    // if(this->primero ==NULL){
-    //     cout << "Mi loco no hay nada en la lista" <<endl;
-    // }else{
-    //     nodo *tmp = this->primero;
-    //     while(tmp != NULL){
-    //         if(tmp->tareas.id == id){
-    //             tmp = tmp->Siguiente;
-    //         }else{
-    //             if(tmp->Siguiente != NULL){
-    //                 if(tmp->Siguiente->tareas.id == id){
-    //                     nodo *siguienteT = tmp->Siguiente;
-    //                     tmp->Siguiente = siguienteT->Siguiente;
-    //                     tmp->Siguiente->Anterior = tmp;
-    //                     siguienteT->Siguiente = NULL;
-    //                 }
-    //             }
-    //         }
-    //         tmp = tmp->Siguiente;
-    //     }
-    // }
+    if(this->primero ==NULL){
+        cout << "Mi loco no hay nada en la lista" <<endl;
+    }else{
+        NodoDoble *tmp = this->primero;
+        while(tmp != NULL){
+            if(tmp->tareas.id == id){
+                tmp = tmp->Siguiente;
+            }else{
+                if(tmp->Siguiente != NULL){
+                    if(tmp->Siguiente->tareas.id == id){
+                        NodoDoble *siguienteT = tmp->Siguiente;
+                        tmp->Siguiente = siguienteT->Siguiente;
+                        tmp->Siguiente->Anterior = tmp;
+                        siguienteT->Siguiente = NULL;
+                    }
+                }
+            }
+            tmp = tmp->Siguiente;
+        }
+    }
     
 }
 
