@@ -72,7 +72,7 @@ void menu()
     cout << " 3. Ingreso manual                          " << endl;
     cout << " 4. Reportes                           " << endl;
     cout << " 5. Modificar Estudiante" << endl;
-    cout << " 6. Salir                           " << endl;
+    cout << " 7. Salir                           " << endl;
     cout << "\n INGRESE OPCION: ";
 }
 
@@ -80,6 +80,18 @@ void menuManual()
 {
     cout << "\n\t SELECCIONE OBJETO A INGRESAR \n\n";
     cout << " 1. Usuarios                             " << endl;
+    cout << " 2. Tareas                           " << endl;
+    cout << " 3. salir                          " << endl;
+
+    cout << "\n INGRESE OPCION: ";
+}
+
+
+
+void reportes()
+{
+    cout << "\n\t SELECCIONE OBJETO A INGRESAR \n\n";
+    cout << " 1. Estudiantes                             " << endl;
     cout << " 2. Tareas                           " << endl;
     cout << " 3. salir                          " << endl;
 
@@ -104,6 +116,11 @@ int main()
     //variable para buscar mediante el DPI del estudiante;
     string DPI;
     Estudiante estidanteBuscado;
+
+    
+    //variable para buscar mediante el DPI del estudiante;
+    string indice_tarea;
+   
 
     //varaibles para carga masiva de usuarios
     ifstream archivo(ruta_Estudiantes);
@@ -131,6 +148,10 @@ int main()
     //matriz 
 
     NodoMatriz *matricita[5][30][9];
+
+    // opcion reportes
+
+    int opcionReporte;
 
     for(int i =0; i<5; i++){
         for(int j = 0; j<30; j++){
@@ -173,19 +194,24 @@ int main()
                 
                 if(estudiante.TamanoCarnet() && estudiante.TamanoDPI() && estudiante.validacionCorreo() ){
                      listita.insertarFinal(estudiante);
-                }else if(estudiante.TamanoCarnet()){
+
+                }else if(!estudiante.TamanoCarnet()){
+
                     cout << "Error, tamano de carnet invalido"<<endl;
                     Error erroristo = Error("Estudiante","tamano de carnet invalido");
                     colita.encolar(erroristo);
-                }else if(estudiante.TamanoDPI()){
+                }else if(!estudiante.TamanoDPI()){
+
                     cout << "Error,tamano de dpi invalido"<<endl;
                     Error erroristo = Error("Estudiante","tamano de dpi invalido");
                     colita.encolar(erroristo);
                 
-                }else if(estudiante.validacionCorreo() ){
+                }else if(!estudiante.validacionCorreo() ){
+
                     cout << "Error, formato de correo invalido"<<endl;
                     Error erroristo = Error("Estudiante","formato de correo invalido");
                     colita.encolar(erroristo);
+                    
                 }
 
 
@@ -234,8 +260,8 @@ int main()
                                 int indice = j+30*(k+9*i);
                                 
                                 Tareas tareaMasiva = Tareas(indice,matricita[i][k][j]->tarea.carnet,matricita[i][k][j]->tarea.Nombre,matricita[i][k][j]->tarea.descripcion,matricita[i][k][j]->tarea.materia,matricita[i][k][j]->tarea.fecha,matricita[i][k][j]->tarea.hora,matricita[i][k][j]->tarea.estado);
-                                 if(listita.busquedaCarnet(matricita[i][k][j]->tarea.carnet) &&tareaMasiva.validarHora()){
-                                    listitaDoble.agregarFinal(tareaMasiva);
+                                 if(listita.busquedaCarnet(matricita[i][k][j]->tarea.carnet) ){
+                                    listitaDoble.agregarInicio(tareaMasiva);
                                 }
 
                                 
@@ -352,8 +378,22 @@ int main()
             break;
 
         case 4:
-            listita.Reporte();
-            colita.imprimir();
+                reportes();
+                cin >> opcionReporte;
+                switch (opcionReporte)
+                {
+                case 1:
+                    listita.getGraph();
+                    break;
+                
+                case 2:
+                    listitaDoble.getGraph();
+                    break;
+                case 3:
+                    colita.getGraph();
+                    break;
+                }  
+            
             break;
         case 5:
             cout << "ingrese el numero del DPI para modificar" << endl;
@@ -367,13 +407,18 @@ int main()
             break;
 
         case 6:
+
+            cout << "ingrese el numero de indice para modificar la tarea";
+            cin >> indice_tarea;
+
             break;
+        
         }
 
         cout << endl
              << endl;
 
-    } while (op != 6);
+    } while (op != 7);
 
     return 0;
 }

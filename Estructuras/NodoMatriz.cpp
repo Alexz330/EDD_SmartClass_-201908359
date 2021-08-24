@@ -44,3 +44,5 @@ class NodoMatriz{
 NodoMatriz::NodoMatriz(TareaMatriz _tareaMatriz){
     this->tarea = _tareaMatriz;
 }
+
+

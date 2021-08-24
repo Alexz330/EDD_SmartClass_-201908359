@@ -97,6 +97,7 @@ public:
     Estudiante Buscar(string);
     void imprimir();
     void Reporte();
+    void getGraph();
     void Eliminar(string);
     bool busquedaCarnet(string );
 };
@@ -370,3 +371,50 @@ void ListaCircularDoble :: Eliminar(string DPI){
 
 
 };
+
+
+void ListaCircularDoble::getGraph(){
+    nodo *aux = this->cabeza;
+    string node_data = "";
+    string edge_data = "";
+    string graph = "digraph List {\nrankdir=LR;\nnode [shape = record, color=yellow , style=filled, fillcolor=red];\n";
+    int counter = 0;
+    while(aux != this->cola){
+        cout<<aux->estudiante.nombre<<endl;
+        node_data += "Node" + to_string(counter) + "[label=\"" + aux->estudiante.nombre+ "\"];\n";
+        if(aux->Anterior!=this->cola){
+            edge_data += "Node" + to_string(counter-1) + "->Node" + to_string(counter) + ";\n";
+            edge_data += "Node" + to_string(counter) + "->Node" + to_string(counter-1) + ";\n";
+        }
+        counter++;
+        aux = aux->Siguiente;
+
+    }
+    
+    graph += node_data;
+    graph += "Node0-> Node"+to_string(counter-1)+ ";\n"; 
+    graph += edge_data;
+    graph += "Node"+to_string(counter-1)+"->Node0;\n"; 
+    graph += "\n}";
+    //-------------------------------------
+    try{
+        //Esta variable debe ser modificada para agregar su path de creacion de la Grafica
+        string path = "Path_a_graficar";
+
+        ofstream file;
+        file.open(path + "Graph.dot",std::ios::out);
+
+        if(file.fail()){
+            exit(1);
+        }
+        file<<graph;
+        file.close();
+        string command = "dot -Tpng " + path + "Graph.dot -o  " + path + "Graph.png";
+        system(command.c_str());
+    }catch(exception e){
+        cout<<"Fallo detectado"<<endl;
+    }
+    //-------------------------------------
+
+    delete aux;
+}
