@@ -214,7 +214,7 @@ void LIstaDobleEnlazada::reporteGrafica(){
         }
         file<<graph;
         file.close();
-        string command = "dot -Tpng " + path + "Graph.dot -o  " + path + "Graph.png";
+        string command = "dot -Tpng " + path + "Tareras.dot -o  " + path + "Tareras.png";
         system(command.c_str());
     }catch(exception e){
         cout<<"no jalo bro"<<endl;

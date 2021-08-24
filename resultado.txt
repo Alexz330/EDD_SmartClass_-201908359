@@ -1,114 +1,2970 @@
 ¿Elements?
 	¿element type='task'?
-		¿item Carnet='201704186'?
-		¿item Descripcion='Realizar la tarea del curso de Física 3.'?
-		¿item Materia='FÍsica 3'?
-		¿item Fecha='2021/10/04'?
+		¿item Carnet='201594265'?
+		¿item Descripcion='Entregar la Tarea 1 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/11/29'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201489697'?
+		¿item Descripcion='Terminar la Tarea 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/11/25'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201043689'?
+		¿item Descripcion='Terminar el Ensayo de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/11/24'?
+		¿item Hora='16'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201327079'?
+		¿item Descripcion='Terminar la Tarea 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/11/22'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201350393'?
+		¿item Descripcion='Hacer el Proyecto 2 de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/11/20'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201803912'?
+		¿item Descripcion='Hacer el Proyecto 2 de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/11/02'?
+		¿item Hora='16'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201183728'?
+		¿item Descripcion='Hacer el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/11/01'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201790782'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/11/28'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201125580'?
+		¿item Descripcion='Empezar la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/11/26'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201661519'?
+		¿item Descripcion='Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 2'?
+		¿item Fecha='2021/11/23'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201232485'?
+		¿item Descripcion='Tarea 1 de indioma 4'?
+		¿item Materia='Idioma Tecnico 1'?
+		¿item Fecha='2021/11/19'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201309890'?
+		¿item Descripcion='Leer las presentaciones de la 1 a la 5'?
+		¿item Materia='Investigacion de operaciones'?
+		¿item Fecha='2021/11/11'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201704168'?
+		¿item Descripcion='Entregar el Ensayo de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/11/09'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201461415'?
+		¿item Descripcion='Entregar la Hoja de trabajo 1 de Social Humanistica 1'?
+		¿item Materia='Social Humanistica 1'?
+		¿item Fecha='2021/11/05'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201803912'?
+		¿item Descripcion='Entregar el Corto de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/11/04'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201022466'?
+		¿item Descripcion='Terminar la Hoja de trabajo 2 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/11/02'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201954202'?
+		¿item Descripcion='Hacer la Hoja de trabajo 1 de Sistemas Operativos 2'?
+		¿item Materia='Sistemas Operativos 2'?
+		¿item Fecha='2021/11/28'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201359507'?
+		¿item Descripcion='Empezar la Tarea 1 de Social Humanistica 1'?
+		¿item Materia='Social Humanistica 1'?
+		¿item Fecha='2021/11/25'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201068965'?
+		¿item Descripcion='Empezar la Tarea 3 de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/11/20'?
+		¿item Hora='14'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201068965'?
+		¿item Descripcion='Entregar la Tarea 1 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/11/11'?
+		¿item Hora='14'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201309890'?
+		¿item Descripcion='Entregar el Corto de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/11/02'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201667272'?
+		¿item Descripcion='empezar a investigar las estructuras en python'?
+		¿item Materia='Estructuras de datos'?
+		¿item Fecha='2021/11/01'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201119966'?
+		¿item Descripcion='Empezar la Hoja de trabajo 2 de Matematica Intermedia 2'?
+		¿item Materia='Matematica Intermedia 2'?
+		¿item Fecha='2021/11/16'?
+		¿item Hora='13'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201157605'?
+		¿item Descripcion='Empezar la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/11/15'?
+		¿item Hora='13'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201761573'?
+		¿item Descripcion='Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 2'?
+		¿item Fecha='2021/11/30'?
+		¿item Hora='12'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201389879'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/11/21'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201131811'?
+		¿item Descripcion='Entregar la Practica 2 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/11/02'?
+		¿item Hora='12'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201173540'?
+		¿item Descripcion='Hacer el Ensayo de Practica Inicial'?
+		¿item Materia='Practica Inicial'?
+		¿item Fecha='2021/11/26'?
+		¿item Hora='11'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201389879'?
+		¿item Descripcion='Hacer la Investigacion de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/11/23'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201402462'?
+		¿item Descripcion='Empezar el Proyecto 1 de Fisica 2'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/11/14'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201509061'?
+		¿item Descripcion='Tarea 1 de indioma 4'?
+		¿item Materia='Idioma Tecnico 1'?
+		¿item Fecha='2021/11/04'?
 		¿item Hora='11'?
 		¿item Estado='Pendiente'?
 	¿$element?
 	¿element type='task'?
-		¿item Carnet='201901425'?
-		¿item Descripcion='Realizar el resumen del curso de Lógica.'?
-		¿item Materia='Lógica'?
-		¿item Fecha='2021/10/04'?
+		¿item Carnet='201461415'?
+		¿item Descripcion='Terminar la Practica 3 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/11/30'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201173540'?
+		¿item Descripcion='Realizar el Proyecto 2 de Matematica Intermedia 3'?
+		¿item Materia='Matematica Intermedia 3'?
+		¿item Fecha='2021/11/28'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201461415'?
+		¿item Descripcion='Empezar el Proyecto 1 de Fisica 2'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/11/22'?
+		¿item Hora='10'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201790782'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/11/20'?
+		¿item Hora='10'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201428558'?
+		¿item Descripcion='Entregar la Hoja de trabajo 1 de Matematica Intermedia 1'?
+		¿item Materia='Matematica Intermedia 1'?
+		¿item Fecha='2021/11/18'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201790782'?
+		¿item Descripcion='Entregar la Hoja de trabajo 1 de Matematica Intermedia 1'?
+		¿item Materia='Matematica Intermedia 1'?
+		¿item Fecha='2021/11/10'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201661519'?
+		¿item Descripcion='Entregar el Corto de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/11/09'?
+		¿item Hora='10'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201125580'?
+		¿item Descripcion='Terminar la Hoja de trabajo 1 de Matematica Intermedia 3'?
+		¿item Materia='Matematica Intermedia 3'?
+		¿item Fecha='2021/11/07'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201991578'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de IPC2'?
+		¿item Materia='IPC2'?
+		¿item Fecha='2021/11/04'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201327675'?
+		¿item Descripcion='Realizar la Practica 1 de Fisica 1'?
+		¿item Materia='Fisica 1'?
+		¿item Fecha='2021/11/25'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201667272'?
+		¿item Descripcion='Hacer el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/11/16'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201698163'?
+		¿item Descripcion='Realizar la Practica 1 de Fisica 1'?
+		¿item Materia='Fisica 1'?
+		¿item Fecha='2021/11/06'?
 		¿item Hora='9'?
 		¿item Estado='Pendiente'?
 	¿$element?
 	¿element type='task'?
-		¿item Carnet='202000786'?
-		¿item Descripcion='Realizar la tarea del curso de Física 1.'?
-		¿item Materia='Física 1'?
-		¿item Fecha='2021/07/01'?
+		¿item Carnet='201489697'?
+		¿item Descripcion='Terminar el Ensayo de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/11/04'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201509061'?
+		¿item Descripcion='Hacer la Tarea 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/11/02'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201582352'?
+		¿item Descripcion='Terminar el Proyecto 2 de Matematica Basica 2'?
+		¿item Materia='Matematica Basica 2'?
+		¿item Fecha='2021/11/26'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201933753'?
+		¿item Descripcion='Realizar la Practica 1 de Fisica 1'?
+		¿item Materia='Fisica 1'?
+		¿item Fecha='2021/11/21'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201309890'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/11/13'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201183728'?
+		¿item Descripcion='Entregar el Proyecto 1 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/11/09'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201947729'?
+		¿item Descripcion='Realizar la Practica 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/11/08'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201803912'?
+		¿item Descripcion='Empezar la Hoja de trabajo 2 de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/11/03'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201661519'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/10/28'?
+		¿item Hora='16'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201137248'?
+		¿item Descripcion='Realizar el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/10/25'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201669286'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de IPC2'?
+		¿item Materia='IPC2'?
+		¿item Fecha='2021/10/22'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201068965'?
+		¿item Descripcion='Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 2'?
+		¿item Fecha='2021/10/18'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201764124'?
+		¿item Descripcion='Entregar la Tarea 2 de Matematica Basica 2'?
+		¿item Materia='Matematica Basica 2'?
+		¿item Fecha='2021/10/15'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201137248'?
+		¿item Descripcion='Empezar el Ensayo de IPC2'?
+		¿item Materia='IPC2'?
+		¿item Fecha='2021/10/12'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201131811'?
+		¿item Descripcion='Realizar la Tarea 4 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/10/10'?
+		¿item Hora='16'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201864201'?
+		¿item Descripcion='Terminar la Hoja de trabajo 2 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/10/09'?
+		¿item Hora='16'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201461415'?
+		¿item Descripcion='Entregar la Tarea 2 de Matematica Basica 2'?
+		¿item Materia='Matematica Basica 2'?
+		¿item Fecha='2021/10/07'?
+		¿item Hora='16'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201173540'?
+		¿item Descripcion='Entregar el Ensayo de Manejo e Implementacion de Archios'?
+		¿item Materia='Manejo e Implementacion de Archios'?
+		¿item Fecha='2021/10/05'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201774497'?
+		¿item Descripcion='Empezar el Proyecto 1 de Fisica 2'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/10/30'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201374369'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/10/24'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201157605'?
+		¿item Descripcion='Empezar la Tarea 1 de Social Humanistica 1'?
+		¿item Materia='Social Humanistica 1'?
+		¿item Fecha='2021/10/20'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201661519'?
+		¿item Descripcion='Realizar la Practica 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/10/08'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201773473'?
+		¿item Descripcion='Empezar la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/10/03'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201803912'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/10/02'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201864201'?
+		¿item Descripcion='Tarea 1 de indioma 4'?
+		¿item Materia='Idioma Tecnico 1'?
+		¿item Fecha='2021/10/01'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201183728'?
+		¿item Descripcion='Realizar la Practica 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/10/29'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201327675'?
+		¿item Descripcion='Hacer el Ensayo de Practica Inicial'?
+		¿item Materia='Practica Inicial'?
+		¿item Fecha='2021/10/22'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201933753'?
+		¿item Descripcion='Terminar el Proyecto 2 de Matematica Basica 2'?
+		¿item Materia='Matematica Basica 2'?
+		¿item Fecha='2021/10/15'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201803912'?
+		¿item Descripcion='Hacer la Hoja de trabajo 1 de Sistemas Operativos 2'?
+		¿item Materia='Sistemas Operativos 2'?
+		¿item Fecha='2021/10/11'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201803912'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/10/08'?
+		¿item Hora='14'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201115140'?
+		¿item Descripcion='Empezar la Practica 1 de Organizacion de Lenguajes y Compiladores 2'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 2'?
+		¿item Fecha='2021/10/03'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201125580'?
+		¿item Descripcion='Realizar la Practica 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/10/02'?
+		¿item Hora='14'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201537627'?
+		¿item Descripcion='Hacer el Proyecto 2 de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/10/27'?
+		¿item Hora='13'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201646518'?
+		¿item Descripcion='Realizar la Practica 1 de Fisica 1'?
+		¿item Materia='Fisica 1'?
+		¿item Fecha='2021/10/26'?
+		¿item Hora='13'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201173540'?
+		¿item Descripcion='Empezar el Ensayo de IPC2'?
+		¿item Materia='IPC2'?
+		¿item Fecha='2021/10/19'?
+		¿item Hora='13'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201740604'?
+		¿item Descripcion='Leer las presentaciones de la 1 a la 5'?
+		¿item Materia='Investigacion de operaciones'?
+		¿item Fecha='2021/10/12'?
+		¿item Hora='13'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201661519'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/10/08'?
+		¿item Hora='13'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201921767'?
+		¿item Descripcion='Terminar el Ensayo de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/10/03'?
+		¿item Hora='13'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201709702'?
+		¿item Descripcion='Terminar el Proyecto 2 de Matematica Basica 2'?
+		¿item Materia='Matematica Basica 2'?
+		¿item Fecha='2021/10/02'?
+		¿item Hora='13'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201646518'?
+		¿item Descripcion='Terminar la Tarea 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/10/29'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201816850'?
+		¿item Descripcion='Empezar la Hoja de trabajo 2 de Matematica Intermedia 2'?
+		¿item Materia='Matematica Intermedia 2'?
+		¿item Fecha='2021/10/27'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201402462'?
+		¿item Descripcion='Tarea 1 de indioma 4'?
+		¿item Materia='Idioma Tecnico 1'?
+		¿item Fecha='2021/10/25'?
+		¿item Hora='12'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201906670'?
+		¿item Descripcion='Hacer la Hoja de trabajo 1 de Sistemas Operativos 2'?
+		¿item Materia='Sistemas Operativos 2'?
+		¿item Fecha='2021/10/24'?
+		¿item Hora='12'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201350393'?
+		¿item Descripcion='Hacer la Investigacion de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/10/23'?
+		¿item Hora='12'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201119966'?
+		¿item Descripcion='Tarea 1 de indioma 4'?
+		¿item Materia='Idioma Tecnico 1'?
+		¿item Fecha='2021/10/21'?
+		¿item Hora='12'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201147451'?
+		¿item Descripcion='Empezar la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/10/15'?
+		¿item Hora='12'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201773473'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/10/09'?
+		¿item Hora='12'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201375524'?
+		¿item Descripcion='Entregar la Hoja de trabajo 1 de Matematica Intermedia 1'?
+		¿item Materia='Matematica Intermedia 1'?
+		¿item Fecha='2021/10/08'?
+		¿item Hora='12'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201816850'?
+		¿item Descripcion='empezar a investigar las estructuras en python'?
+		¿item Materia='Estructuras de datos'?
+		¿item Fecha='2021/10/30'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201669286'?
+		¿item Descripcion='Realizar la Practica 2 de Fisica 2'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/10/29'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201774497'?
+		¿item Descripcion='Realizar la tarea para el primer parcial'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/10/28'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201110247'?
+		¿item Descripcion='Terminar la Tarea 5 de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/10/27'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201157605'?
+		¿item Descripcion='Realizar la tarea para el primer parcial'?
+		¿item Materia='Matematica Intermedia 1'?
+		¿item Fecha='2021/10/25'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201646518'?
+		¿item Descripcion='Realizar la Practica 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/10/17'?
 		¿item Hora='11'?
 		¿item Estado='Pendiente'?
 	¿$element?
 	¿element type='task'?
-		¿item Carnet='201704186'?
-		¿item Descripcion='Realizar la tarea del curso de Estadística 1.'?
-		¿item Materia='Estadística 1'?
-		¿item Fecha='2021/07/14'?
-		¿item Hora='10'?
-		¿item Estado='Cumplido'?
+		¿item Carnet='201906670'?
+		¿item Descripcion='Empezar el Proyecto 1 de Fisica 2'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/10/10'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
 	¿$element?
 	¿element type='task'?
-		¿item Carnet='201901425'?
-		¿item Descripcion='Realizar la tarea del curso de matemática intermedia 1.'?
-		¿item Materia='Matemática Intermedia 1'?
-		¿item Fecha='2021/07/01'?
+		¿item Carnet='201006295'?
+		¿item Descripcion='Realizar la Practica 2 de Fisica 2'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/10/07'?
+		¿item Hora='11'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201511649'?
+		¿item Descripcion='Entregar la Hoja de trabajo 1 de Social Humanistica 1'?
+		¿item Materia='Social Humanistica 1'?
+		¿item Fecha='2021/10/04'?
+		¿item Hora='11'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201764124'?
+		¿item Descripcion='Entregar la Hoja de trabajo 1 de Social Humanistica 1'?
+		¿item Materia='Social Humanistica 1'?
+		¿item Fecha='2021/10/30'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201375524'?
+		¿item Descripcion='Entregar el Corto de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/10/22'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201359507'?
+		¿item Descripcion='Realizar la tarea para el primer parcial'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/10/20'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201232485'?
+		¿item Descripcion='Empezar el Proyecto 1 de Fisica 2'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/10/17'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201906670'?
+		¿item Descripcion='Hacer la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/10/09'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201537627'?
+		¿item Descripcion='Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 2'?
+		¿item Fecha='2021/10/27'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201255643'?
+		¿item Descripcion='Entregar la Hoja de trabajo 1 de Matematica Intermedia 1'?
+		¿item Materia='Matematica Intermedia 1'?
+		¿item Fecha='2021/10/26'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201359507'?
+		¿item Descripcion='Terminar la Practica 3 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/10/13'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201774497'?
+		¿item Descripcion='Terminar la Practica 3 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/10/07'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201350393'?
+		¿item Descripcion='Empezar la Tarea 3 de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/10/06'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201183728'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/10/03'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201500866'?
+		¿item Descripcion='Hacer el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/10/02'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201234795'?
+		¿item Descripcion='Entregar el Proyecto 1 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/10/01'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201157605'?
+		¿item Descripcion='Hacer el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/10/26'?
 		¿item Hora='8'?
 		¿item Estado='Incumplido'?
 	¿$element?
-	¿element type='user'?
-		¿item Carnet='201822186'?
-		¿item DPI='9298434863898'?
-		¿item Nombre ='Eloisa Rincón'?
-		¿item Carrera='Ingeniería Civil'?
-		¿item Password='toqelijanu'?
-		¿item Creditos='95'?
-		¿item Edad='19'?
+	¿element type='task'?
+		¿item Carnet='201110247'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/10/25'?
+		¿item Hora='8'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201790782'?
+		¿item Descripcion='Realizar el Examen de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/10/23'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201137248'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/10/18'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201947729'?
+		¿item Descripcion='Realizar el Examen de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/10/12'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201698163'?
+		¿item Descripcion='Entregar el Ensayo de Manejo e Implementacion de Archios'?
+		¿item Materia='Manejo e Implementacion de Archios'?
+		¿item Fecha='2021/10/05'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201933753'?
+		¿item Descripcion='Entregar la Practica 2 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/10/04'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201500866'?
+		¿item Descripcion='Hacer el Proyecto 2 de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/09/30'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201389879'?
+		¿item Descripcion='Hacer la Investigacion de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/09/19'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201774497'?
+		¿item Descripcion='Entregar la Tarea 1 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/17'?
+		¿item Hora='16'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201125580'?
+		¿item Descripcion='Leer las presentaciones de la 1 a la 5'?
+		¿item Materia='Investigacion de operaciones'?
+		¿item Fecha='2021/09/15'?
+		¿item Hora='16'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201412244'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/08'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201635991'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/06'?
+		¿item Hora='16'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201255643'?
+		¿item Descripcion='Hacer el Proyecto 2 de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/09/29'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201119966'?
+		¿item Descripcion='Empezar la Tarea 3 de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/09/25'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201125580'?
+		¿item Descripcion='Terminar la Hoja de trabajo 2 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/09/18'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201643353'?
+		¿item Descripcion='Terminar el Proyecto 2 de Matematica Basica 2'?
+		¿item Materia='Matematica Basica 2'?
+		¿item Fecha='2021/09/17'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201006295'?
+		¿item Descripcion='Entregar la Practica 2 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/09/16'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201009015'?
+		¿item Descripcion='Realizar el Examen de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/09/14'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201991578'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/13'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201234795'?
+		¿item Descripcion='Realizar la tarea para el primer parcial'?
+		¿item Materia='Matematica Intermedia 1'?
+		¿item Fecha='2021/09/02'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201509061'?
+		¿item Descripcion='Entregar la Tarea 1 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/28'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201147451'?
+		¿item Descripcion='Realizar la tarea para el primer parcial'?
+		¿item Materia='Matematica Intermedia 1'?
+		¿item Fecha='2021/09/27'?
+		¿item Hora='14'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201582352'?
+		¿item Descripcion='Leer las presentaciones de la 1 a la 5'?
+		¿item Materia='Investigacion de operaciones'?
+		¿item Fecha='2021/09/10'?
+		¿item Hora='14'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201119966'?
+		¿item Descripcion='Terminar la Practica 3 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/09/09'?
+		¿item Hora='14'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201582352'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/02'?
+		¿item Hora='14'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201991578'?
+		¿item Descripcion='Hacer la Investigacion de Social Humanistica 1'?
+		¿item Materia='Social Humanistica 1'?
+		¿item Fecha='2021/09/19'?
+		¿item Hora='13'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201402462'?
+		¿item Descripcion='Hacer la Tarea 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/09/15'?
+		¿item Hora='13'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201661519'?
+		¿item Descripcion='Terminar la Tarea 5 de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/09/13'?
+		¿item Hora='13'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201327675'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/10'?
+		¿item Hora='13'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201698163'?
+		¿item Descripcion='Realizar la tarea para el primer parcial'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/09/05'?
+		¿item Hora='13'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201773473'?
+		¿item Descripcion='Entregar el Proyecto 1 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/09/29'?
+		¿item Hora='12'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201375524'?
+		¿item Descripcion='Empezar el Ensayo de IPC2'?
+		¿item Materia='IPC2'?
+		¿item Fecha='2021/09/26'?
+		¿item Hora='12'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201646518'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/21'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201489697'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/17'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201509061'?
+		¿item Descripcion='Terminar el Proyecto 2 de Matematica Basica 2'?
+		¿item Materia='Matematica Basica 2'?
+		¿item Fecha='2021/09/01'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201476680'?
+		¿item Descripcion='Hacer la Tarea 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/09/28'?
+		¿item Hora='11'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201764124'?
+		¿item Descripcion='Terminar la Hoja de trabajo 1 de Matematica Intermedia 3'?
+		¿item Materia='Matematica Intermedia 3'?
+		¿item Fecha='2021/09/27'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201864201'?
+		¿item Descripcion='empezar a investigar las estructuras en python'?
+		¿item Materia='Estructuras de datos'?
+		¿item Fecha='2021/09/24'?
+		¿item Hora='11'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201803912'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/22'?
+		¿item Hora='11'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201006295'?
+		¿item Descripcion='Hacer la Hoja de trabajo 1 de Sistemas Operativos 2'?
+		¿item Materia='Sistemas Operativos 2'?
+		¿item Fecha='2021/09/21'?
+		¿item Hora='11'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201825364'?
+		¿item Descripcion='Realizar la Tarea 4 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/17'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201906670'?
+		¿item Descripcion='Terminar la Practica 3 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/09/15'?
+		¿item Hora='11'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201991578'?
+		¿item Descripcion='Empezar la Tarea 1 de Social Humanistica 1'?
+		¿item Materia='Social Humanistica 1'?
+		¿item Fecha='2021/09/05'?
+		¿item Hora='11'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201389879'?
+		¿item Descripcion='Terminar la practica'?
+		¿item Materia='Estructuras de datos'?
+		¿item Fecha='2021/09/04'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201643353'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/01'?
+		¿item Hora='11'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201043689'?
+		¿item Descripcion='Entregar el Corto de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/09/29'?
+		¿item Hora='10'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201489697'?
+		¿item Descripcion='Entregar la Tarea 2 de Matematica Basica 2'?
+		¿item Materia='Matematica Basica 2'?
+		¿item Fecha='2021/09/28'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201709702'?
+		¿item Descripcion='Terminar la Tarea 5 de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/09/05'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201933753'?
+		¿item Descripcion='Entregar el Ensayo de Manejo e Implementacion de Archios'?
+		¿item Materia='Manejo e Implementacion de Archios'?
+		¿item Fecha='2021/09/04'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201125580'?
+		¿item Descripcion='Realizar el Proyecto 2 de Matematica Intermedia 3'?
+		¿item Materia='Matematica Intermedia 3'?
+		¿item Fecha='2021/09/02'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201516603'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/28'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201009015'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/25'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201991578'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/23'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201667272'?
+		¿item Descripcion='Hacer el Ensayo de Practica Inicial'?
+		¿item Materia='Practica Inicial'?
+		¿item Fecha='2021/09/22'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201402462'?
+		¿item Descripcion='Realizar la Tarea 4 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/20'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201402462'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/16'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201991578'?
+		¿item Descripcion='Empezar la Hoja de trabajo 2 de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/09/15'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201906670'?
+		¿item Descripcion='Tarea 1 de indioma 4'?
+		¿item Materia='Idioma Tecnico 1'?
+		¿item Fecha='2021/09/14'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201500866'?
+		¿item Descripcion='Realizar el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/09/06'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201489697'?
+		¿item Descripcion='Realizar el Proyecto 2 de Matematica Intermedia 3'?
+		¿item Materia='Matematica Intermedia 3'?
+		¿item Fecha='2021/09/04'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201537627'?
+		¿item Descripcion='Empezar la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/09/03'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201309890'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/09/01'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201009015'?
+		¿item Descripcion='Hacer el Ensayo de Practica Inicial'?
+		¿item Materia='Practica Inicial'?
+		¿item Fecha='2021/09/28'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201667272'?
+		¿item Descripcion='Terminar la Practica 3 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/09/26'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201933753'?
+		¿item Descripcion='Terminar la Practica 3 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/09/20'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201350393'?
+		¿item Descripcion='Hacer la Investigacion de Social Humanistica 1'?
+		¿item Materia='Social Humanistica 1'?
+		¿item Fecha='2021/09/11'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201635991'?
+		¿item Descripcion='Terminar el Ensayo de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/09/08'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201897987'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/06'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201709702'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/09/04'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201635991'?
+		¿item Descripcion='Realizar el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/08/26'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201582352'?
+		¿item Descripcion='Empezar la Hoja de trabajo 2 de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/08/25'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201761573'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de IPC2'?
+		¿item Materia='IPC2'?
+		¿item Fecha='2021/08/24'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201476680'?
+		¿item Descripcion='Hacer el Ensayo de Practica Inicial'?
+		¿item Materia='Practica Inicial'?
+		¿item Fecha='2021/08/23'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201764124'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/08/12'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201412244'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/08/04'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201476680'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/08/02'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201818908'?
+		¿item Descripcion='Hacer el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/08/29'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201137248'?
+		¿item Descripcion='Hacer el Proyecto 2 de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/08/22'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201489697'?
+		¿item Descripcion='Terminar la Hoja de trabajo 2 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/08/17'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201145786'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/08/03'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201006295'?
+		¿item Descripcion='Terminar el Ensayo de Organizacion de Lenguajes y Compiladores 1'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 1'?
+		¿item Fecha='2021/08/02'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201537627'?
+		¿item Descripcion='Entregar la Tarea 1 de Estructuras de Datos'?
+		¿item Materia='Estructuras de Datos'?
+		¿item Fecha='2021/08/30'?
+		¿item Hora='14'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201954202'?
+		¿item Descripcion='Hacer el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/08/11'?
+		¿item Hora='14'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201803912'?
+		¿item Descripcion='Realizar el Proyecto 2 de Matematica Intermedia 3'?
+		¿item Materia='Matematica Intermedia 3'?
+		¿item Fecha='2021/08/06'?
+		¿item Hora='14'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201537627'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/08/04'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201635991'?
+		¿item Descripcion='Terminar la Tarea 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/08/02'?
+		¿item Hora='14'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201137248'?
+		¿item Descripcion='Hacer el Ensayo de Practica Inicial'?
+		¿item Materia='Practica Inicial'?
+		¿item Fecha='2021/08/26'?
+		¿item Hora='13'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201131811'?
+		¿item Descripcion='Realizar la Practica 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/08/19'?
+		¿item Hora='13'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201803912'?
+		¿item Descripcion='Terminar la Practica 3 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/08/18'?
+		¿item Hora='13'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201389879'?
+		¿item Descripcion='Realizar la Tarea 4 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/08/15'?
+		¿item Hora='13'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201110247'?
+		¿item Descripcion='Entregar la Tarea 2 de Matematica Basica 2'?
+		¿item Materia='Matematica Basica 2'?
+		¿item Fecha='2021/08/04'?
+		¿item Hora='13'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201309890'?
+		¿item Descripcion='Hacer el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/08/30'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201740604'?
+		¿item Descripcion='Tarea 1 de indioma 4'?
+		¿item Materia='Idioma Tecnico 1'?
+		¿item Fecha='2021/08/27'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201947729'?
+		¿item Descripcion='Empezar la Practica 1 de Organizacion de Lenguajes y Compiladores 2'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 2'?
+		¿item Fecha='2021/08/22'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201764124'?
+		¿item Descripcion='Realizar la Practica 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/08/11'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201173540'?
+		¿item Descripcion='Empezar la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/08/04'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201864201'?
+		¿item Descripcion='Tarea 1 de indioma 4'?
+		¿item Materia='Idioma Tecnico 1'?
+		¿item Fecha='2021/08/29'?
+		¿item Hora='11'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201635991'?
+		¿item Descripcion='Empezar la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/08/19'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201646518'?
+		¿item Descripcion='Realizar el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/08/12'?
+		¿item Hora='11'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201043689'?
+		¿item Descripcion='Terminar el Ensayo de Organizacion de Lenguajes y Compiladores 1'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 1'?
+		¿item Fecha='2021/08/08'?
+		¿item Hora='11'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201709702'?
+		¿item Descripcion='Entregar la Tarea 1 de Estructuras de Datos'?
+		¿item Materia='Estructuras de Datos'?
+		¿item Fecha='2021/08/29'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201389879'?
+		¿item Descripcion='Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 2'?
+		¿item Fecha='2021/08/21'?
+		¿item Hora='10'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201375524'?
+		¿item Descripcion='Hacer la Investigacion de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/08/17'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201131811'?
+		¿item Descripcion='Empezar la Practica 1 de Organizacion de Lenguajes y Compiladores 2'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 2'?
+		¿item Fecha='2021/08/13'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201669286'?
+		¿item Descripcion='Terminar el Ensayo de Organizacion de Lenguajes y Compiladores 1'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 1'?
+		¿item Fecha='2021/08/10'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201594265'?
+		¿item Descripcion='Tarea 1 de indioma 4'?
+		¿item Materia='Idioma Tecnico 1'?
+		¿item Fecha='2021/08/09'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201157605'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/08/05'?
+		¿item Hora='10'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201897987'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de IPC2'?
+		¿item Materia='IPC2'?
+		¿item Fecha='2021/08/26'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201374369'?
+		¿item Descripcion='Terminar el Ensayo de Organizacion de Lenguajes y Compiladores 1'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 1'?
+		¿item Fecha='2021/08/23'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201761573'?
+		¿item Descripcion='Terminar el Ensayo de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/08/21'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201773473'?
+		¿item Descripcion='empezar a investigar las estructuras en python'?
+		¿item Materia='Estructuras de datos'?
+		¿item Fecha='2021/08/16'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201412244'?
+		¿item Descripcion='Realizar el Proyecto 2 de Matematica Intermedia 3'?
+		¿item Materia='Matematica Intermedia 3'?
+		¿item Fecha='2021/08/15'?
+		¿item Hora='9'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201669286'?
+		¿item Descripcion='Realizar el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/08/14'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201825364'?
+		¿item Descripcion='Hacer la Tarea 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/08/11'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201232485'?
+		¿item Descripcion='Realizar el Examen de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/08/02'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201234795'?
+		¿item Descripcion='Hacer la Investigacion de Social Humanistica 1'?
+		¿item Materia='Social Humanistica 1'?
+		¿item Fecha='2021/08/26'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201359507'?
+		¿item Descripcion='Empezar la Hoja de trabajo 2 de Matematica Intermedia 2'?
+		¿item Materia='Matematica Intermedia 2'?
+		¿item Fecha='2021/08/13'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201761573'?
+		¿item Descripcion='Empezar la Hoja de trabajo 2 de Matematica Intermedia 2'?
+		¿item Materia='Matematica Intermedia 2'?
+		¿item Fecha='2021/08/11'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201476680'?
+		¿item Descripcion='Terminar la practica'?
+		¿item Materia='Estructuras de datos'?
+		¿item Fecha='2021/08/05'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201774497'?
+		¿item Descripcion='Realizar la tarea para el primer parcial'?
+		¿item Materia='Matematica Intermedia 1'?
+		¿item Fecha='2021/08/03'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201991578'?
+		¿item Descripcion='Entregar el Corto de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='01/08/2021'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201509061'?
+		¿item Descripcion='Realizar el Examen de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/07/30'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201774497'?
+		¿item Descripcion='Realizar el Examen de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/07/27'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201668149'?
+		¿item Descripcion='Terminar la Tarea 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/07/24'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201022466'?
+		¿item Descripcion='Hacer la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/07/17'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201774497'?
+		¿item Descripcion='Terminar la Practica 3 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/07/16'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201022466'?
+		¿item Descripcion='Empezar la Hoja de trabajo 2 de Matematica Intermedia 2'?
+		¿item Materia='Matematica Intermedia 2'?
+		¿item Fecha='2021/07/13'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201864201'?
+		¿item Descripcion='empezar a investigar las estructuras en python'?
+		¿item Materia='Estructuras de datos'?
+		¿item Fecha='2021/07/11'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201766242'?
+		¿item Descripcion='Hacer la Tarea 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/07/10'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201698163'?
+		¿item Descripcion='Empezar el Ensayo de IPC2'?
+		¿item Materia='IPC2'?
+		¿item Fecha='2021/07/08'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201389879'?
+		¿item Descripcion='Terminar la Tarea 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/07/06'?
+		¿item Hora='16'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201119966'?
+		¿item Descripcion='Empezar la Hoja de trabajo 2 de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/07/02'?
+		¿item Hora='16'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201173540'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de IPC2'?
+		¿item Materia='IPC2'?
+		¿item Fecha='2021/07/26'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201234795'?
+		¿item Descripcion='Empezar la Tarea 1 de Social Humanistica 1'?
+		¿item Materia='Social Humanistica 1'?
+		¿item Fecha='2021/07/25'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201764124'?
+		¿item Descripcion='Empezar la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/07/24'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201145786'?
+		¿item Descripcion='Empezar la Tarea 3 de Organizacion de Lenguajes y Compiladores 2'?
+		¿item Materia='Organizacion de Lenguajes y Compiladores 2'?
+		¿item Fecha='2021/07/21'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201511649'?
+		¿item Descripcion='Hacer la Tarea 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/07/18'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201428558'?
+		¿item Descripcion='Entregar el Corto de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/07/15'?
+		¿item Hora='15'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201790782'?
+		¿item Descripcion='Entregar el Proyecto 1 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/07/10'?
+		¿item Hora='15'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201147451'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/07/09'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201461415'?
+		¿item Descripcion='Hacer la Tarea 2 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/07/07'?
+		¿item Hora='15'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201110247'?
+		¿item Descripcion='Terminar la Tarea 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/07/30'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201022466'?
+		¿item Descripcion='Realizar el Examen de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/07/22'?
+		¿item Hora='14'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201668149'?
+		¿item Descripcion='Entregar la Hoja de trabajo 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/07/10'?
+		¿item Hora='14'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201119966'?
+		¿item Descripcion='Realizar el Examen de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/07/03'?
+		¿item Hora='14'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201500866'?
+		¿item Descripcion='Entregar el Corto de Sistemas de Bases de Datos 1'?
+		¿item Materia='Sistemas de Bases de Datos 1'?
+		¿item Fecha='2021/07/11'?
+		¿item Hora='13'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201125580'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de IPC2'?
+		¿item Materia='IPC2'?
+		¿item Fecha='2021/07/09'?
+		¿item Hora='13'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201476680'?
+		¿item Descripcion='Entregar la Practica 2 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/07/08'?
+		¿item Hora='13'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201232485'?
+		¿item Descripcion='Hacer el Ensayo de Practica Inicial'?
+		¿item Materia='Practica Inicial'?
+		¿item Fecha='2021/07/23'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201921767'?
+		¿item Descripcion='Terminar la Practica 3 de Quimica General 1'?
+		¿item Materia='Quimica General 1'?
+		¿item Fecha='2021/07/20'?
+		¿item Hora='12'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201818908'?
+		¿item Descripcion='Realizar el Proyecto 2 de Matematica Intermedia 3'?
+		¿item Materia='Matematica Intermedia 3'?
+		¿item Fecha='2021/07/19'?
+		¿item Hora='12'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201991578'?
+		¿item Descripcion='Realizar la Practica 1 de Fisica 1'?
+		¿item Materia='Fisica 1'?
+		¿item Fecha='2021/07/18'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201402462'?
+		¿item Descripcion='Realizar el Examen de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/07/09'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201234795'?
+		¿item Descripcion='Realizar el Examen de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/07/07'?
+		¿item Hora='12'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201740604'?
+		¿item Descripcion='Empezar el Proyecto 1 de Fisica 2'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/07/25'?
+		¿item Hora='11'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201232485'?
+		¿item Descripcion='Realizar la Practica 1 de Fisica 1'?
+		¿item Materia='Fisica 1'?
+		¿item Fecha='2021/07/24'?
+		¿item Hora='11'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201897987'?
+		¿item Descripcion='Realizar la Practica 2 de Fisica 2'?
+		¿item Materia='Fisica 2'?
+		¿item Fecha='2021/07/10'?
+		¿item Hora='11'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201803912'?
+		¿item Descripcion='Realizar la Practica 1 de Fisica 1'?
+		¿item Materia='Fisica 1'?
+		¿item Fecha='2021/07/21'?
+		¿item Hora='10'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201933753'?
+		¿item Descripcion='Terminar la Tarea 2 de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/07/18'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201173540'?
+		¿item Descripcion='Terminar la Hoja de trabajo 2 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/07/16'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201818908'?
+		¿item Descripcion='Realizar la Practica 1 de Fisica 1'?
+		¿item Materia='Fisica 1'?
+		¿item Fecha='2021/07/09'?
+		¿item Hora='10'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201412244'?
+		¿item Descripcion='Terminar la Practica 3 de Sistemas de Bases de Datos 2'?
+		¿item Materia='Sistemas de Bases de Datos 2'?
+		¿item Fecha='2021/07/03'?
+		¿item Hora='10'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201375524'?
+		¿item Descripcion='Realizar la Practica 2 de IPC1'?
+		¿item Materia='IPC1'?
+		¿item Fecha='2021/07/28'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201327079'?
+		¿item Descripcion='Tarea 1 de indioma 4'?
+		¿item Materia='Idioma Tecnico 1'?
+		¿item Fecha='2021/07/21'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201131811'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/07/19'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201009015'?
+		¿item Descripcion='Realizar el Examen de Matematica Computo 1'?
+		¿item Materia='Matematica Computo 1'?
+		¿item Fecha='2021/07/13'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201582352'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/07/03'?
+		¿item Hora='9'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201043689'?
+		¿item Descripcion='Realizar el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/07/29'?
+		¿item Hora='8'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201119966'?
+		¿item Descripcion='Empezar la Hoja de trabajo 2 de Matematica Intermedia 2'?
+		¿item Materia='Matematica Intermedia 2'?
+		¿item Fecha='2021/07/26'?
+		¿item Hora='8'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201327675'?
+		¿item Descripcion='Hacer el Proyecto 1 de Practica Intermedia'?
+		¿item Materia='Practica Intermedia'?
+		¿item Fecha='2021/07/22'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201643353'?
+		¿item Descripcion='Empezar la Tarea 3 de Sistemas Operativos 1'?
+		¿item Materia='Sistemas Operativos 1'?
+		¿item Fecha='2021/07/21'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201667272'?
+		¿item Descripcion='empezar a investigar las estructuras en python'?
+		¿item Materia='Estructuras de datos'?
+		¿item Fecha='2021/07/20'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201375524'?
+		¿item Descripcion='Terminar la Hoja de trabajo 3 de Fisica 3'?
+		¿item Materia='Fisica 3'?
+		¿item Fecha='2021/07/19'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201234795'?
+		¿item Descripcion='Entregar el Ensayo de Manejo e Implementacion de Archios'?
+		¿item Materia='Manejo e Implementacion de Archios'?
+		¿item Fecha='2021/07/13'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201509061'?
+		¿item Descripcion='Realizar el Examen de Lenguajes Formales y de Programacion'?
+		¿item Materia='Lenguajes Formales y de Programacion'?
+		¿item Fecha='2021/07/07'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201933753'?
+		¿item Descripcion='Realizar el Proyecto 2 de Matematica Intermedia 3'?
+		¿item Materia='Matematica Intermedia 3'?
+		¿item Fecha='2021/07/04'?
+		¿item Hora='8'?
+		¿item Estado='Realizado'?
 	¿$element?
 	¿element type='user'?
-		¿item Carnet='201901425'?
-		¿item DPI='4131766125532'?
-		¿item Nombre ='Bernardo Hinojosa'?
-		¿item Carrera='Ingeniería Mecánica'?
-		¿item Password='wosopumano'?
-		¿item Creditos='100'?
+		¿item Carnet='201183728'?
+		¿item DPI='2050740201006'?
+		¿item Nombre ='Alvin Huckett'?
+		¿item Carrera='Ingenieria Quimica'?
+		¿item Password='DGHS2Xi'?
+		¿item Creditos='222'?
 		¿item Edad='20'?
 	¿$element?
 	¿element type='user'?
-		¿item Carnet='201503186'?
-		¿item DPI='8549191766348'?
-		¿item Nombre ='Manuel Manzanares'?
-		¿item Carrera='Ingeniería Eléctrica'?
-		¿item Password='rejumudore'?
-		¿item Creditos='226'?
-		¿item Edad='24'?
-	¿$element?
-	¿element type='user'?
-		¿item Carnet='201123146'?
-		¿item DPI='9616636196552'?
-		¿item Nombre ='Julia Corona'?
-		¿item Carrera='Ingeniería Electrónica'?
-		¿item Password='xojobavuji'?
-		¿item Creditos='237'?
-		¿item Edad='26'?
-	¿$element?
-	¿element type='user'?
-		¿item Carnet='201704186'?
-		¿item DPI='4778315315575'?
-		¿item Nombre ='Berta Carrasco'?
-		¿item Carrera='Ingeniería Ambiental'?
-		¿item Password='gayahizatu'?
-		¿item Creditos='210'?
-		¿item Edad='22'?
-	¿$element?
-	¿element type='user'?
-		¿item Carnet='202000786'?
-		¿item DPI='7382344774121'?
-		¿item Nombre ='Lola Delapaz'?
-		¿item Carrera='Ingeniería Química'?
-		¿item Password='hujocikimi'?
-		¿item Creditos='45'?
-		¿item Edad='19'?
-	¿$element?
-	¿element type='user'?
-		¿item Carnet='201611446'?
-		¿item DPI='2511893949443'?
-		¿item Nombre ='Sonia Arteaga'?
-		¿item Carrera='Ingeniería Mecánica Industrial'?
-		¿item Password='rezutafila'?
-		¿item Creditos='195'?
+		¿item Carnet='201582352'?
+		¿item DPI='4172564417242'?
+		¿item Nombre ='Bobina Delacroux'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='m6ILxd'?
+		¿item Creditos='113'?
 		¿item Edad='23'?
 	¿$element?
 	¿element type='user'?
-		¿item Carnet='201819852'?
-		¿item DPI='3423442386382'?
-		¿item Nombre ='Benjamín Asencio'?
-		¿item Carrera='Ingeniería Mecánica Eléctrica'?
-		¿item Password='runoqozepo'?
-		¿item Creditos='117'?
+		¿item Carnet='201115140'?
+		¿item DPI='8429519350118'?
+		¿item Nombre ='Pebrook Gircke'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='Ysgy3Vt'?
+		¿item Creditos='172'?
+		¿item Edad='19'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201350393'?
+		¿item DPI='9029374304090'?
+		¿item Nombre ='Laurie Tumilty'?
+		¿item Carrera='Ingenieria en Ciencias y Sistemas'?
+		¿item Password='UKazTS0'?
+		¿item Creditos='124'?
 		¿item Edad='20'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201698163'?
+		¿item DPI='8010354636352'?
+		¿item Nombre ='Barn Killingbeck'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='38KWHL'?
+		¿item Creditos='130'?
+		¿item Edad='20'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201402462'?
+		¿item DPI='3594915493584'?
+		¿item Nombre ='Joscelin Fewings'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='tF7ZroZ'?
+		¿item Creditos='202'?
+		¿item Edad='25'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201643353'?
+		¿item DPI='9692561360208'?
+		¿item Nombre ='Llywellyn Woodnutt'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='ui708GE'?
+		¿item Creditos='44'?
+		¿item Edad='27'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201043689'?
+		¿item DPI='0714796787404'?
+		¿item Nombre ='Ardene Benediktovich'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='muiPC17'?
+		¿item Creditos='13'?
+		¿item Edad='23'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201489697'?
+		¿item DPI='3310894947855'?
+		¿item Nombre ='Judye Rossborough'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='k9oGtrw'?
+		¿item Creditos='3'?
+		¿item Edad='26'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201818908'?
+		¿item DPI='2689202578134'?
+		¿item Nombre ='Wilbur Alberts'?
+		¿item Carrera='Ingenieria en Ciencias y Sistemas'?
+		¿item Password='SSeRj8d'?
+		¿item Creditos='64'?
+		¿item Edad='18'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201816850'?
+		¿item DPI='0154497044345'?
+		¿item Nombre ='Emili Palleske'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='17x8L'?
+		¿item Creditos='28'?
+		¿item Edad='21'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201232485'?
+		¿item DPI='3762365704505'?
+		¿item Nombre ='Vivian Currer'?
+		¿item Carrera='Ingenieria Quimica'?
+		¿item Password='xe7yeho'?
+		¿item Creditos='218'?
+		¿item Edad='28'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201131811'?
+		¿item DPI='3347258005328'?
+		¿item Nombre ='Eloise Trevarthen'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='B8FP4'?
+		¿item Creditos='201'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201476680'?
+		¿item DPI='4293824642888'?
+		¿item Nombre ='Kim Westphal'?
+		¿item Carrera='Ingenieria Quimica'?
+		¿item Password='qtry5'?
+		¿item Creditos='159'?
+		¿item Edad='19'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201511649'?
+		¿item DPI='5648266954532'?
+		¿item Nombre ='Aylmar Raubenheimer'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='76816q'?
+		¿item Creditos='163'?
+		¿item Edad='23'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201255643'?
+		¿item DPI='7672150791181'?
+		¿item Nombre ='Alvin Huckett'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='g4X4Ak'?
+		¿item Creditos='65'?
+		¿item Edad='29'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201947729'?
+		¿item DPI='1430797138430'?
+		¿item Nombre ='Camila Dibbert'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='b4wdeP'?
+		¿item Creditos='188'?
+		¿item Edad='21'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201173540'?
+		¿item DPI='3235002226847'?
+		¿item Nombre ='Alvin Huckett'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='ITrpSM0'?
+		¿item Creditos='104'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201704168'?
+		¿item DPI='3379162068993'?
+		¿item Nombre ='Tim Goldspink'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='Cmg7g'?
+		¿item Creditos='137'?
+		¿item Edad='19'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201661519'?
+		¿item DPI='9302712249273'?
+		¿item Nombre ='Harvey Darbyshire'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='Asv30'?
+		¿item Creditos='55'?
+		¿item Edad='26'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201309890'?
+		¿item DPI='6364119505269'?
+		¿item Nombre ='Grayce Poltone'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='bCp3F57'?
+		¿item Creditos='133'?
+		¿item Edad='18'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201740604'?
+		¿item DPI='2625352358554'?
+		¿item Nombre ='Llywellyn Woodnutt'?
+		¿item Carrera='Ingenieria en Ciencias y Sistemas'?
+		¿item Password='Bk8jU'?
+		¿item Creditos='3'?
+		¿item Edad='19'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201646518'?
+		¿item DPI='8696013129504'?
+		¿item Nombre ='Aylmar Raubenheimer'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='3j9MHF'?
+		¿item Creditos='192'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201766242'?
+		¿item DPI='3780452896411'?
+		¿item Nombre ='Franky Viney'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='UC1hKp'?
+		¿item Creditos='164'?
+		¿item Edad='20'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201537627'?
+		¿item DPI='6000394094296'?
+		¿item Nombre ='Aylmar Raubenheimer'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='82MID7'?
+		¿item Creditos='3'?
+		¿item Edad='24'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201327675'?
+		¿item DPI='5005953751371'?
+		¿item Nombre ='Lamont Barthrup'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='CAt1n'?
+		¿item Creditos='171'?
+		¿item Edad='20'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201897987'?
+		¿item DPI='2193345266141'?
+		¿item Nombre ='Michelle Glanister'?
+		¿item Carrera='Ingenieria Quimica'?
+		¿item Password='8cIUD'?
+		¿item Creditos='226'?
+		¿item Edad='25'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201500866'?
+		¿item DPI='7040168688236'?
+		¿item Nombre ='Claybourne Nelmes'?
+		¿item Carrera='Ingenieria en Ciencias y Sistemas'?
+		¿item Password='4xCS04'?
+		¿item Creditos='121'?
+		¿item Edad='19'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201359507'?
+		¿item DPI='6474775706799'?
+		¿item Nombre ='Olly Brunelleschi'?
+		¿item Carrera='Ingenieria Quimica'?
+		¿item Password='rdjy6j'?
+		¿item Creditos='52'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201954202'?
+		¿item DPI='2496399691941'?
+		¿item Nombre ='Eloise Trevarthen'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='6RNgz'?
+		¿item Creditos='196'?
+		¿item Edad='29'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201412244'?
+		¿item DPI='3239472177167'?
+		¿item Nombre ='Eba Keitley'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='BRdQj'?
+		¿item Creditos='238'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201234795'?
+		¿item DPI='9082300809939'?
+		¿item Nombre ='Wilbur Alberts'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='0oXnv'?
+		¿item Creditos='80'?
+		¿item Edad='29'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201594265'?
+		¿item DPI='2831630574772'?
+		¿item Nombre ='Ardene Benediktovich'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='15Asd'?
+		¿item Creditos='242'?
+		¿item Edad='26'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201790782'?
+		¿item DPI='3168522176927'?
+		¿item Nombre ='Claybourne Nelmes'?
+		¿item Carrera='Ingenieria en Ciencias y Sistemas'?
+		¿item Password='d70Vi'?
+		¿item Creditos='0'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201374369'?
+		¿item DPI='8311431297185'?
+		¿item Nombre ='Lionel Messi'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='cVzaR8'?
+		¿item Creditos='93'?
+		¿item Edad='20'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201709702'?
+		¿item DPI='4245428187625'?
+		¿item Nombre ='Dillon Blandamere'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='3f5qj'?
+		¿item Creditos='84'?
+		¿item Edad='20'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201635991'?
+		¿item DPI='2702608963916'?
+		¿item Nombre ='Boycie Langlais'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='vCGgb2'?
+		¿item Creditos='113'?
+		¿item Edad='29'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201389879'?
+		¿item DPI='1332692632257'?
+		¿item Nombre ='Darn Studdal'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='r80ja'?
+		¿item Creditos='244'?
+		¿item Edad='23'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201375524'?
+		¿item DPI='3164173770900'?
+		¿item Nombre ='Tim Goldspink'?
+		¿item Carrera='Ingenieria Quimica'?
+		¿item Password='Nu96Sq3'?
+		¿item Creditos='1'?
+		¿item Edad='20'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201428558'?
+		¿item DPI='8783633019549'?
+		¿item Nombre ='Llywellyn Woodnutt'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='qWlnP7'?
+		¿item Creditos='5'?
+		¿item Edad='24'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201933753'?
+		¿item DPI='6467642780621'?
+		¿item Nombre ='Bobina Delacroux'?
+		¿item Carrera='Ingenieria en Ciencias y Sistemas'?
+		¿item Password='8DGPFmN'?
+		¿item Creditos='147'?
+		¿item Edad='25'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201774497'?
+		¿item DPI='6327689577005'?
+		¿item Nombre ='Llywellyn Woodnutt'?
+		¿item Carrera='Ingenieria en Ciencias y Sistemas'?
+		¿item Password='RN1Dgbd'?
+		¿item Creditos='90'?
+		¿item Edad='26'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201145786'?
+		¿item DPI='4820546644233'?
+		¿item Nombre ='Harvey Darbyshire'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='uJW2Q'?
+		¿item Creditos='88'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201509061'?
+		¿item DPI='3761268073554'?
+		¿item Nombre ='Tim Goldspink'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='DPx0LQ0'?
+		¿item Creditos='108'?
+		¿item Edad='23'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201068965'?
+		¿item DPI='7207003476187'?
+		¿item Nombre ='Tim Goldspink'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='MF4vc6'?
+		¿item Creditos='112'?
+		¿item Edad='26'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201991578'?
+		¿item DPI='7437219208336'?
+		¿item Nombre ='Olly Brunelleschi'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='H1xi3'?
+		¿item Creditos='102'?
+		¿item Edad='29'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201803912'?
+		¿item DPI='3995410773680'?
+		¿item Nombre ='Emili Palleske'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='ODYgI'?
+		¿item Creditos='205'?
+		¿item Edad='26'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201921767'?
+		¿item DPI='5042024988582'?
+		¿item Nombre ='Consolata Reskelly'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='cBP1bt7'?
+		¿item Creditos='200'?
+		¿item Edad='27'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201157605'?
+		¿item DPI='2503385887437'?
+		¿item Nombre ='Alonzo Seagrove'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='92V6h'?
+		¿item Creditos='226'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201761573'?
+		¿item DPI='5372214388411'?
+		¿item Nombre ='Alonzo Seagrove'?
+		¿item Carrera='Ingenieria Quimica'?
+		¿item Password='24ldm'?
+		¿item Creditos='51'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201825364'?
+		¿item DPI='6772854332066'?
+		¿item Nombre ='Phillis Syrie'?
+		¿item Carrera='Ingenieria Quimica'?
+		¿item Password='rU2QYr'?
+		¿item Creditos='111'?
+		¿item Edad='28'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201022466'?
+		¿item DPI='0579054127201'?
+		¿item Nombre ='Wash Sedgemore'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='1E8vp8'?
+		¿item Creditos='130'?
+		¿item Edad='29'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201006295'?
+		¿item DPI='6483009710551'?
+		¿item Nombre ='Roderigo Gomme'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='w1E8BW'?
+		¿item Creditos='23'?
+		¿item Edad='24'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201116100'?
+		¿item DPI='7247421869888'?
+		¿item Nombre ='Franky Viney'?
+		¿item Carrera='Ingenieria Quimica'?
+		¿item Password='5K0p7N'?
+		¿item Creditos='42'?
+		¿item Edad='26'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201773473'?
+		¿item DPI='1563507262381'?
+		¿item Nombre ='Krystal Crellin'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='3KgBk'?
+		¿item Creditos='88'?
+		¿item Edad='26'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201119966'?
+		¿item DPI='9030770152211'?
+		¿item Nombre ='Michelle Glanister'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='J9Tq39'?
+		¿item Creditos='225'?
+		¿item Edad='23'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201669286'?
+		¿item DPI='3126321523297'?
+		¿item Nombre ='Tim Goldspink'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='QQNPe8'?
+		¿item Creditos='187'?
+		¿item Edad='21'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201147451'?
+		¿item DPI='9093933675701'?
+		¿item Nombre ='Ellerey Sherwyn'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='20H3Hx'?
+		¿item Creditos='80'?
+		¿item Edad='23'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201864201'?
+		¿item DPI='8208413026556'?
+		¿item Nombre ='Claybourne Nelmes'?
+		¿item Carrera='Ingenieria en Ciencias y Sistemas'?
+		¿item Password='69548z'?
+		¿item Creditos='25'?
+		¿item Edad='25'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201667272'?
+		¿item DPI='9443025623424'?
+		¿item Nombre ='Adriaens Timms'?
+		¿item Carrera='Ingenieria en Ciencias y Sistemas'?
+		¿item Password='Pe8Ucp'?
+		¿item Creditos='237'?
+		¿item Edad='21'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201668149'?
+		¿item DPI='6435886693765'?
+		¿item Nombre ='Harvey Darbyshire'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='u4jxe57'?
+		¿item Creditos='31'?
+		¿item Edad='27'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201764124'?
+		¿item DPI='6773833243077'?
+		¿item Nombre ='Harvey Darbyshire'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='0DDF8'?
+		¿item Creditos='219'?
+		¿item Edad='21'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201516603'?
+		¿item DPI='4062043125856'?
+		¿item Nombre ='Aylmar Raubenheimer'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='Sv4HFP'?
+		¿item Creditos='168'?
+		¿item Edad='19'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201327079'?
+		¿item DPI='8292286385716'?
+		¿item Nombre ='Franky Viney'?
+		¿item Carrera='Ingenieria Industrial'?
+		¿item Password='GhhLi'?
+		¿item Creditos='179'?
+		¿item Edad='21'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201906670'?
+		¿item DPI='2245119831085'?
+		¿item Nombre ='Franky Viney'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='PCAanL'?
+		¿item Creditos='198'?
+		¿item Edad='23'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201461415'?
+		¿item DPI='8579079230016'?
+		¿item Nombre ='Roderigo Gomme'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='6GEfOg'?
+		¿item Creditos='113'?
+		¿item Edad='20'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201009015'?
+		¿item DPI='1962623323417'?
+		¿item Nombre ='Afton Hounson'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='PQvEC5'?
+		¿item Creditos='12'?
+		¿item Edad='23'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201137248'?
+		¿item DPI='4264540703955'?
+		¿item Nombre ='Eba Keitley'?
+		¿item Carrera='Ingenieria Mecanica'?
+		¿item Password='K8ZY0mI'?
+		¿item Creditos='35'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201339503'?
+		¿item DPI='1169570189320'?
+		¿item Nombre ='Drusilla Louca'?
+		¿item Carrera='Ingenieria Mecanica Industrial'?
+		¿item Password='xW0NS'?
+		¿item Creditos='41'?
+		¿item Edad='29'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201110247'?
+		¿item DPI='7882408800987'?
+		¿item Nombre ='Aylmar Raubenheimer'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='oKlY9O7'?
+		¿item Creditos='171'?
+		¿item Edad='19'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201125580'?
+		¿item DPI='1846903502498'?
+		¿item Nombre ='Boycie Langlais'?
+		¿item Carrera='Ingenieria en Ciencias y Sistemas'?
+		¿item Password='MhBaUtl'?
+		¿item Creditos='190'?
+		¿item Edad='21'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201315288'?
+		¿item DPI='7044319749868'?
+		¿item Nombre ='Joscelin Fewings'?
+		¿item Carrera='Ingenieria Mecanica Electrica'?
+		¿item Password='3htilF'?
+		¿item Creditos='89'?
+		¿item Edad='27'?
 	¿$element?
 ¿$Elements?

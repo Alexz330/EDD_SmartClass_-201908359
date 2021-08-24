@@ -6,7 +6,7 @@
 #include "Estructuras/NodoMatriz.cpp"
 #include "Estructuras/Cola.cpp"
 
-#define ruta_Estudiantes "Estudiantes.csv"
+#define ruta_Estudiantes "Estudiante.csv"
 #define ruta_Tareas "Tareas.csv"
 
 
@@ -212,20 +212,20 @@ int main()
 
                 }else if(!estudiante.TamanoCarnet()){
                     string tipoError ="Estudiante";
-                    string descripcionError = "tamano de carnet invalido";
+                    string descripcionError = "tamano de carnet invalido "+Carnet;
                     cout << "Error, tamano de carnet invalido"<<endl;
                     Error erroristo = Error(tipoError,descripcionError);
                     colita.encolar(erroristo);
                 }else if(!estudiante.TamanoDPI()){
 
                     cout << "Error,tamano de dpi invalido"<<endl;
-                    Error erroristo = Error("Estudiante","tamano de dpi invalido");
+                    Error erroristo = Error("Estudiante","tamano de dpi invalido" + DPI+"");
                     colita.encolar(erroristo);
                 
                 }else if(!estudiante.validacionCorreo() ){
 
                     cout << "Error, formato de correo invalido"<<endl;
-                    Error erroristo = Error("Estudiante","formato de correo invalido");
+                    Error erroristo = Error("Estudiante","formato de correo invalido "+Correo+"");
                     colita.encolar(erroristo);
                     
                 }
@@ -276,7 +276,7 @@ int main()
                                 int indice = j+30*(k+9*i);
                                 
                                 Tareas tareaMasiva = Tareas(indice,matricita[i][k][j]->tarea.carnet,matricita[i][k][j]->tarea.Nombre,matricita[i][k][j]->tarea.descripcion,matricita[i][k][j]->tarea.materia,matricita[i][k][j]->tarea.fecha,matricita[i][k][j]->tarea.hora,matricita[i][k][j]->tarea.estado);
-                                 if(listita.busquedaCarnet(matricita[i][k][j]->tarea.carnet) && tareaMasiva.validarHora() ){
+                                 if(listita.busquedaCarnet(matricita[i][k][j]->tarea.carnet)){
                                     listitaDoble.agregarInicio(tareaMasiva);
                                 }
 
@@ -407,7 +407,7 @@ int main()
                     break;
                 case 3:
                     colita.reporteGrafica();
-                    system("pause");
+                   
                     break;
                 case 4:
                     ofstream archivo;

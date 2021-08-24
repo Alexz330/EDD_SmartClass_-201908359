@@ -1,4 +1,6 @@
-
+#include <iostream>
+#include <string>
+#include <fstream>
 
 using namespace std;
 
@@ -37,6 +39,7 @@ class NodeCola {
 
 NodeCola::NodeCola(Error _error){
     this->error = _error;
+    this->Next = NULL;
 };
 
 
@@ -46,7 +49,7 @@ class Cola{
         int lenght;
         Error errorsito;
         
-        NodeCola * adelante;
+        NodeCola *adelante;
         NodeCola *atras;
         
         void encolar(Error);
@@ -61,8 +64,8 @@ void Cola::encolar(Error _errorsito){
     NodeCola *newNodo = new NodeCola( _errorsito);
 
       if(lenght == 0){
-        adelante = newNodo;
-        atras = newNodo;
+        this->adelante = newNodo;
+        this->atras = newNodo;
     }else{
         atras->Next =newNodo;
         atras = newNodo;
@@ -102,27 +105,26 @@ void Cola::desencolar(){
 
 
 void Cola::reporteGrafica(){
-    NodeCola *aux = this->atras;
+    NodeCola *aux = this->adelante;
     string node_data = "";
     string edge_data = "";
-    string graph = "digraph List {\nrankdir=LR;\nnode [shape = record, color=yellow , style=filled, fillcolor=red];\n";
+    string titulo = "Cola de errores";
+    string graph = "digraph List {\nrankdir=LR;\nnode [shape = record, color=yellow , style=filled, fillcolor=skyblue];\n";
     int counter = 0;
-    int contador  = 0;
+    
     while(aux != NULL){
         cout<<aux->error.tipo<<endl;
-        node_data += "Node" + to_string(counter) + "[label=\"" + aux->error.tipo+ "\"];\n";
-      
+        node_data += "Node" + to_string(counter) + "[label=\"" + aux->error.tipo+ " " + aux->error.descripcion+"\"];\n";   
         
         counter++;
         aux = aux->Next;
+       
+    }   
 
-    }
-    
     graph += node_data;
-   
-     graph += node_data;
     counter=counter-1;
     while(counter!=0){
+        
         edge_data += "Node" + to_string(counter) + "->Node" + to_string(counter-1) + ";\n";
         counter=counter-1;
     }
@@ -143,12 +145,11 @@ void Cola::reporteGrafica(){
         }
         file<<graph;
         file.close();
-        string command = "dot -Tpng " + path + "Graph.dot -o  " + path + "Graph.png";
+        string command = "dot -Tpng " + path + "Errores.dot -o  " + path + "Errores.png";
         system(command.c_str());
     }catch(exception e){
         cout<<"Se murio"<<endl;
     }
-    //-------------------------------------
+  
 
-    delete aux;
 }
