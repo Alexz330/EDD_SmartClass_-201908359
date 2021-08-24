@@ -1,0 +1,114 @@
+¿Elements?
+	¿element type='task'?
+		¿item Carnet='201704186'?
+		¿item Descripcion='Realizar la tarea del curso de Física 3.'?
+		¿item Materia='FÍsica 3'?
+		¿item Fecha='2021/10/04'?
+		¿item Hora='11'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201901425'?
+		¿item Descripcion='Realizar el resumen del curso de Lógica.'?
+		¿item Materia='Lógica'?
+		¿item Fecha='2021/10/04'?
+		¿item Hora='9'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='202000786'?
+		¿item Descripcion='Realizar la tarea del curso de Física 1.'?
+		¿item Materia='Física 1'?
+		¿item Fecha='2021/07/01'?
+		¿item Hora='11'?
+		¿item Estado='Pendiente'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201704186'?
+		¿item Descripcion='Realizar la tarea del curso de Estadística 1.'?
+		¿item Materia='Estadística 1'?
+		¿item Fecha='2021/07/14'?
+		¿item Hora='10'?
+		¿item Estado='Cumplido'?
+	¿$element?
+	¿element type='task'?
+		¿item Carnet='201901425'?
+		¿item Descripcion='Realizar la tarea del curso de matemática intermedia 1.'?
+		¿item Materia='Matemática Intermedia 1'?
+		¿item Fecha='2021/07/01'?
+		¿item Hora='8'?
+		¿item Estado='Incumplido'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201822186'?
+		¿item DPI='9298434863898'?
+		¿item Nombre ='Eloisa Rincón'?
+		¿item Carrera='Ingeniería Civil'?
+		¿item Password='toqelijanu'?
+		¿item Creditos='95'?
+		¿item Edad='19'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201901425'?
+		¿item DPI='4131766125532'?
+		¿item Nombre ='Bernardo Hinojosa'?
+		¿item Carrera='Ingeniería Mecánica'?
+		¿item Password='wosopumano'?
+		¿item Creditos='100'?
+		¿item Edad='20'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201503186'?
+		¿item DPI='8549191766348'?
+		¿item Nombre ='Manuel Manzanares'?
+		¿item Carrera='Ingeniería Eléctrica'?
+		¿item Password='rejumudore'?
+		¿item Creditos='226'?
+		¿item Edad='24'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201123146'?
+		¿item DPI='9616636196552'?
+		¿item Nombre ='Julia Corona'?
+		¿item Carrera='Ingeniería Electrónica'?
+		¿item Password='xojobavuji'?
+		¿item Creditos='237'?
+		¿item Edad='26'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201704186'?
+		¿item DPI='4778315315575'?
+		¿item Nombre ='Berta Carrasco'?
+		¿item Carrera='Ingeniería Ambiental'?
+		¿item Password='gayahizatu'?
+		¿item Creditos='210'?
+		¿item Edad='22'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='202000786'?
+		¿item DPI='7382344774121'?
+		¿item Nombre ='Lola Delapaz'?
+		¿item Carrera='Ingeniería Química'?
+		¿item Password='hujocikimi'?
+		¿item Creditos='45'?
+		¿item Edad='19'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201611446'?
+		¿item DPI='2511893949443'?
+		¿item Nombre ='Sonia Arteaga'?
+		¿item Carrera='Ingeniería Mecánica Industrial'?
+		¿item Password='rezutafila'?
+		¿item Creditos='195'?
+		¿item Edad='23'?
+	¿$element?
+	¿element type='user'?
+		¿item Carnet='201819852'?
+		¿item DPI='3423442386382'?
+		¿item Nombre ='Benjamín Asencio'?
+		¿item Carrera='Ingeniería Mecánica Eléctrica'?
+		¿item Password='runoqozepo'?
+		¿item Creditos='117'?
+		¿item Edad='20'?
+	¿$element?
+¿$Elements?

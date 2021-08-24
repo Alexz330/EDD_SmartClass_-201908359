@@ -97,7 +97,7 @@ public:
     Estudiante Buscar(string);
     void imprimir();
     void Reporte();
-    void getGraph();
+    void reporteGrafica();
     void Eliminar(string);
     bool busquedaCarnet(string );
     string archivoSalida();
@@ -342,7 +342,7 @@ void ListaCircularDoble :: Eliminar(string DPI){
     int contador = 1;
 
     while(aux->estudiante.Dpi != DPI && contador != this->size){
-        aux->Siguiente;
+       aux= aux->Siguiente;
         contador++;
     };
 
@@ -374,7 +374,7 @@ void ListaCircularDoble :: Eliminar(string DPI){
 };
 
 
-void ListaCircularDoble::getGraph(){
+void ListaCircularDoble::reporteGrafica(){
     nodo *aux = this->cabeza;
     string node_data = "";
     string edge_data = "";
@@ -397,23 +397,23 @@ void ListaCircularDoble::getGraph(){
     graph += edge_data;
     graph += "Node"+to_string(counter-1)+"->Node0;\n"; 
     graph += "\n}";
-    //-------------------------------------
+   
     try{
-        //Esta variable debe ser modificada para agregar su path de creacion de la Grafica
+       
         string path = "Path_a_graficar";
 
         ofstream file;
-        file.open(path + "Graph.dot",std::ios::out);
+        file.open(path + "Estudiantes.dot",std::ios::out);
 
         if(file.fail()){
             exit(1);
         }
         file<<graph;
         file.close();
-        string command = "dot -Tpng " + path + "Graph.dot -o  " + path + "Graph.png";
+        string command = "dot -Tpng " + path + "Estudiantes.dot -o  " + path + "Estudiantes.png";
         system(command.c_str());
     }catch(exception e){
-        cout<<"Fallo detectado"<<endl;
+        cout<<"se murio"<<endl;
     }
     //-------------------------------------
 

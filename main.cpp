@@ -64,6 +64,13 @@ int GetIndiceHora(string _dia){
 }
 
 
+void menuModificar(){
+        cout << "\n\t MENU \n\n";
+    cout << " 1. Mofificar                             " << endl;
+    cout << " 2. Eliminar                            " << endl;
+
+}
+
 void menu()
 {
     cout << "\n\t MENU \n\n";
@@ -120,6 +127,8 @@ int main()
     string DPI;
     Estudiante estidanteBuscado;
 
+    string DPIEliminar;
+
     
     //variable para buscar mediante el DPI del estudiante;
     string indice_tarea;
@@ -155,6 +164,9 @@ int main()
     // opcion reportes
 
     int opcionReporte;
+
+    // opcion modificar estudaintes 
+    int opcionModificar; 
 
     for(int i =0; i<5; i++){
         for(int j = 0; j<30; j++){
@@ -264,7 +276,7 @@ int main()
                                 int indice = j+30*(k+9*i);
                                 
                                 Tareas tareaMasiva = Tareas(indice,matricita[i][k][j]->tarea.carnet,matricita[i][k][j]->tarea.Nombre,matricita[i][k][j]->tarea.descripcion,matricita[i][k][j]->tarea.materia,matricita[i][k][j]->tarea.fecha,matricita[i][k][j]->tarea.hora,matricita[i][k][j]->tarea.estado);
-                                 if(listita.busquedaCarnet(matricita[i][k][j]->tarea.carnet) ){
+                                 if(listita.busquedaCarnet(matricita[i][k][j]->tarea.carnet) && tareaMasiva.validarHora() ){
                                     listitaDoble.agregarInicio(tareaMasiva);
                                 }
 
@@ -314,7 +326,7 @@ int main()
                 cout << "Intruduce la Edad: " << endl;
                 cin >> Usu_Edad;
 
-                estudianteIngresado = Estudiante(Usu_Carnet, Usu_DPI, Usu_Nombre, Usu_Carrera, Usu_Correo, Usu_Password, Usu_Creditos, Usu_Edad);
+                estudianteIngresado = Estudiante(Usu_Carnet, Usu_DPI, Usu_Nombre, Usu_Carrera, Usu_Password, Usu_Creditos, Usu_Edad, Usu_Correo);
 
                   if(estudianteIngresado.TamanoCarnet() && estudianteIngresado.TamanoDPI() && estudianteIngresado.validacionCorreo() ){
                      listita.insertarFinal(estudianteIngresado);
@@ -361,7 +373,7 @@ int main()
 
                 tareasIngresadas = Tareas(0, T_carnet, T_nombre, T_descripcion, T_materia, T_fecha, T_hora, T_estado);
 
-                if (listita.busquedaCarnet(T_carnet))
+                if (listita.busquedaCarnet(T_carnet) && tareasIngresadas.validarHora())
                 {
                     listitaDoble.agregarInicio(tareasIngresadas);
                 }
@@ -387,14 +399,14 @@ int main()
                 switch (opcionReporte)
                 {
                 case 1:
-                    listita.getGraph();
+                    listita.reporteGrafica();
                     break;
                 
                 case 2:
-                    listitaDoble.getGraph();
+                    listitaDoble.reporteGrafica();
                     break;
                 case 3:
-                    colita.getGraph();
+                    colita.reporteGrafica();
                     system("pause");
                     break;
                 case 4:
@@ -409,14 +421,33 @@ int main()
             
             break;
         case 5:
-            cout << "ingrese el numero del DPI para modificar" << endl;
+            menuModificar();
 
-            cin >> DPI;
+            cin >> opcionModificar;
+            switch (opcionModificar)
+            {
+            case 1:
+                 cout << "ingrese el numero del DPI para modificar" << endl;
 
-            estidanteBuscado = listita.Buscar(DPI);
+                cin >> DPI;
 
-            listita.actualizar(estidanteBuscado);
-            system("pause");
+                estidanteBuscado = listita.Buscar(DPI);
+
+                listita.actualizar(estidanteBuscado);
+                break;
+            
+            case 2:
+                cout << "ingrese el numero del DPI para elimnar" << endl;
+                 
+                
+                cin >> DPIEliminar;
+
+                listita.Eliminar(DPIEliminar);
+
+                break;
+            }
+           
+            
             break;
 
         case 6:

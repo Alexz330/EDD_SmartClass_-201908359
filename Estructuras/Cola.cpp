@@ -53,7 +53,7 @@ class Cola{
     
         void desencolar();
         void imprimir();
-        void getGraph();
+        void reporteGrafica();
 };
 
 
@@ -101,21 +101,17 @@ void Cola::desencolar(){
 }
 
 
-void Cola::getGraph(){
-    NodeCola *aux = this->adelante;
+void Cola::reporteGrafica(){
+    NodeCola *aux = this->atras;
     string node_data = "";
     string edge_data = "";
     string graph = "digraph List {\nrankdir=LR;\nnode [shape = record, color=yellow , style=filled, fillcolor=red];\n";
     int counter = 0;
     int contador  = 0;
-    while(contador != this->lenght){
+    while(aux != NULL){
         cout<<aux->error.tipo<<endl;
         node_data += "Node" + to_string(counter) + "[label=\"" + aux->error.tipo+ "\"];\n";
       
-            cout<<"hola perro"<<endl;
-            edge_data += "Node" + to_string(counter-1) + "->Node" + to_string(counter) + ";\n";
-            edge_data += "Node" + to_string(counter) + "->Node" + to_string(counter-1) + ";\n";
-            contador++;
         
         counter++;
         aux = aux->Next;
@@ -124,16 +120,23 @@ void Cola::getGraph(){
     
     graph += node_data;
    
+     graph += node_data;
+    counter=counter-1;
+    while(counter!=0){
+        edge_data += "Node" + to_string(counter) + "->Node" + to_string(counter-1) + ";\n";
+        counter=counter-1;
+    }
+
     graph += edge_data;
    
     graph += "\n}";
-    //-------------------------------------
+ 
     try{
-        //Esta variable debe ser modificada para agregar su path de creacion de la Grafica
+       
         string path = "Path_a_graficar";
 
         ofstream file;
-        file.open(path + "Graph.dot",std::ios::out);
+        file.open(path + "Errores.dot",std::ios::out);
 
         if(file.fail()){
             exit(1);
@@ -143,7 +146,7 @@ void Cola::getGraph(){
         string command = "dot -Tpng " + path + "Graph.dot -o  " + path + "Graph.png";
         system(command.c_str());
     }catch(exception e){
-        cout<<"Fallo detectado"<<endl;
+        cout<<"Se murio"<<endl;
     }
     //-------------------------------------
 

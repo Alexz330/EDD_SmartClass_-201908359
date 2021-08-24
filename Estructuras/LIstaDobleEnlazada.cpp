@@ -82,7 +82,7 @@ class LIstaDobleEnlazada
         void eliminar(int _id);
         void imprimir();
         string archivoSalida();
-        void getGraph();
+        void reporteGrafica();
    
 };
 
@@ -182,7 +182,7 @@ void LIstaDobleEnlazada::imprimir(){
 }
 
 
-void LIstaDobleEnlazada::getGraph(){
+void LIstaDobleEnlazada::reporteGrafica(){
     NodoDoble *aux = this->primero;
     string node_data = "";
     string edge_data = "";
@@ -201,13 +201,13 @@ void LIstaDobleEnlazada::getGraph(){
     graph += node_data;
     graph += edge_data;
     graph += "\n}";
-    //-------------------------------------
+ 
     try{
-        //Esta variable debe ser modificada para agregar su path de creacion de la Grafica
+       
         string path = "Path_a_graficar";
 
         ofstream file;
-        file.open(path + "Graph.dot",std::ios::out);
+        file.open(path + "Tareras.dot",std::ios::out);
 
         if(file.fail()){
             exit(1);
@@ -217,7 +217,7 @@ void LIstaDobleEnlazada::getGraph(){
         string command = "dot -Tpng " + path + "Graph.dot -o  " + path + "Graph.png";
         system(command.c_str());
     }catch(exception e){
-        cout<<"Fallo detectado"<<endl;
+        cout<<"no jalo bro"<<endl;
     }
     //-------------------------------------
 
