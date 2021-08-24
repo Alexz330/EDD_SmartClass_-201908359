@@ -81,7 +81,8 @@ void menuManual()
     cout << "\n\t SELECCIONE OBJETO A INGRESAR \n\n";
     cout << " 1. Usuarios                             " << endl;
     cout << " 2. Tareas                           " << endl;
-    cout << " 3. salir                          " << endl;
+    cout << " 3. Salir                        " << endl;
+   
 
     cout << "\n INGRESE OPCION: ";
 }
@@ -93,7 +94,9 @@ void reportes()
     cout << "\n\t SELECCIONE OBJETO A INGRESAR \n\n";
     cout << " 1. Estudiantes                             " << endl;
     cout << " 2. Tareas                           " << endl;
-    cout << " 3. salir                          " << endl;
+    cout << " 3. Cola Errores                          " << endl;
+    cout << " 4. Archivo salida                          " << endl;
+    cout << " 5. Salir                          " << endl;
 
     cout << "\n INGRESE OPCION: ";
 }
@@ -196,9 +199,10 @@ int main()
                      listita.insertarFinal(estudiante);
 
                 }else if(!estudiante.TamanoCarnet()){
-
+                    string tipoError ="Estudiante";
+                    string descripcionError = "tamano de carnet invalido";
                     cout << "Error, tamano de carnet invalido"<<endl;
-                    Error erroristo = Error("Estudiante","tamano de carnet invalido");
+                    Error erroristo = Error(tipoError,descripcionError);
                     colita.encolar(erroristo);
                 }else if(!estudiante.TamanoDPI()){
 
@@ -217,8 +221,8 @@ int main()
 
                 
             }
+            
             listita.Reporte();
-
             archivo.close();
             break;
 
@@ -391,7 +395,16 @@ int main()
                     break;
                 case 3:
                     colita.getGraph();
+                    system("pause");
                     break;
+                case 4:
+                    ofstream archivo;
+
+                    archivo.open("resultado.txt",ios::out);
+                    string reporteTarea = listitaDoble.archivoSalida();
+                    string reporteEstudiantes = listita.archivoSalida();
+
+                    archivo<<"¿Elements?\n"<<reporteTarea<<reporteEstudiantes<<"¿$Elements?";
                 }  
             
             break;

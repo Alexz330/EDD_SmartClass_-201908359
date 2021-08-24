@@ -21,7 +21,7 @@ Error::Error( ){
 Error::Error(string _tipo, string _descripcion){
     this->tipo = _tipo;
     this->descripcion  = _descripcion;
-    id++;
+    this->id++;
 };
 
 
@@ -36,7 +36,7 @@ class NodeCola {
 
 
 NodeCola::NodeCola(Error _error){
-    
+    this->error = _error;
 };
 
 
@@ -75,9 +75,9 @@ void Cola::encolar(Error _errorsito){
 
 
 void Cola::imprimir(){
-       NodeCola *aux;
+       NodeCola *aux= this->adelante;
 
-        aux = adelante;
+        
 
         while(aux != NULL){
             cout <<aux->error.id <<" Tipo de Error: "<< aux->error.tipo<<endl;
@@ -107,13 +107,16 @@ void Cola::getGraph(){
     string edge_data = "";
     string graph = "digraph List {\nrankdir=LR;\nnode [shape = record, color=yellow , style=filled, fillcolor=red];\n";
     int counter = 0;
-    while(aux != NULL){
+    int contador  = 0;
+    while(contador != this->lenght){
         cout<<aux->error.tipo<<endl;
         node_data += "Node" + to_string(counter) + "[label=\"" + aux->error.tipo+ "\"];\n";
-        if(aux->Next !=NULL){
+      
+            cout<<"hola perro"<<endl;
             edge_data += "Node" + to_string(counter-1) + "->Node" + to_string(counter) + ";\n";
             edge_data += "Node" + to_string(counter) + "->Node" + to_string(counter-1) + ";\n";
-        }
+            contador++;
+        
         counter++;
         aux = aux->Next;
 

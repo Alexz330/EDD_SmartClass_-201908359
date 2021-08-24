@@ -100,6 +100,7 @@ public:
     void getGraph();
     void Eliminar(string);
     bool busquedaCarnet(string );
+    string archivoSalida();
 };
 
 
@@ -418,3 +419,47 @@ void ListaCircularDoble::getGraph(){
 
     delete aux;
 }
+
+string ListaCircularDoble::archivoSalida(){
+    
+    string contenido = "";
+    string tipoAbierto = "\t¿element type='user'?\n";
+    string tipoCerrado  = "\t¿$element?\n";
+    nodo *aux = this->cabeza;
+    while(aux != this->cola){
+       
+        string carnet = "\t\t¿item Carnet='"+aux->estudiante.No_Carnet+"'?\n"; 
+        string dpi = "\t\t¿item DPI='"+aux->estudiante.Dpi+"'?\n"; 
+        string nombre = "\t\t¿item Nombre ='"+aux->estudiante.nombre+"'?\n";
+        string carrera = "\t\t¿item Carrera='"+aux->estudiante.carrera+"'?\n";
+        string Password = "\t\t¿item Password='"+aux->estudiante.Password+"'?\n";
+        string creditos = "\t\t¿item Creditos='"+aux->estudiante.Creditos+"'?\n";
+        string edad = "\t\t¿item Edad='"+aux->estudiante.Edad+"'?\n";
+        
+        contenido += tipoAbierto+carnet+dpi+nombre+carrera+Password+creditos+edad+tipoCerrado;  
+
+       
+        aux = aux->Siguiente;
+    }
+
+      if (aux == this->cola)
+    {
+        string carnet = "\t\t¿item Carnet='"+aux->estudiante.No_Carnet+"'?\n"; 
+        string dpi = "\t\t¿item DPI='"+aux->estudiante.Dpi+"'?\n"; 
+        string nombre = "\t\t¿item Nombre ='"+aux->estudiante.nombre+"'?\n";
+        string carrera = "\t\t¿item Carrera='"+aux->estudiante.carrera+"'?\n";
+        string Password = "\t\t¿item Password='"+aux->estudiante.Password+"'?\n";
+        string creditos = "\t\t¿item Creditos='"+aux->estudiante.Creditos+"'?\n";
+        string edad = "\t\t¿item Edad='"+aux->estudiante.Edad+"'?\n";
+        
+        contenido += tipoAbierto+carnet+dpi+nombre+carrera+Password+creditos+edad+tipoCerrado;  
+    };
+
+
+
+    return contenido;
+}
+
+
+
+   

@@ -19,6 +19,7 @@ class Tareas {
         string hora;
         string estado;
         bool validarHora();
+        
      
 
 
@@ -80,9 +81,35 @@ class LIstaDobleEnlazada
         void agregarFinal(Tareas);
         void eliminar(int _id);
         void imprimir();
+        string archivoSalida();
         void getGraph();
    
 };
+
+
+string LIstaDobleEnlazada::archivoSalida(){
+    
+    string contenido = "";
+    string tipoAbierto = "\t¿element type='task'?\n";
+    string tipoCerrado  = "\t¿$element?\n";
+    NodoDoble *temporal = this->primero;
+    while(temporal != NULL){
+        cout <<"Nombre de Tarea: "<< temporal->tareas.nombreTarea << endl;
+        string carnet = "\t\t¿item Carnet='"+temporal->tareas.carnet+"'?\n"; 
+        string nombre = "\t\t¿item Nombre ='"+temporal->tareas.nombreTarea+"'?\n";
+        string descripcion = "\t\t¿item Descripcion='"+temporal->tareas.descripcion+"'?\n";
+        string materia = "\t\t¿item Materia='"+temporal->tareas.materia+"'?\n";
+        string fecha = "\t\t¿item Fecha='"+temporal->tareas.fecha+"'?\n";
+        string hora = "\t\t¿item Hora='"+temporal->tareas.hora+"'?\n";
+        string estado = "\t\t¿item Estado='"+temporal->tareas.estado+"'?\n";
+        contenido += tipoAbierto+carnet+descripcion+materia+fecha+hora+estado+tipoCerrado;  
+
+       
+        temporal = temporal->Siguiente;
+    }
+
+    return contenido;
+}
 
 
 void  LIstaDobleEnlazada::agregarInicio(Tareas tarea){
